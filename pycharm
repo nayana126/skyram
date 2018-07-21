@@ -1,0 +1,8 @@
+#author nayana
+def add(a,b):
+   
+   i = 9
+   if a>b == 9:
+   print("hi")
+  elif:
+  print("hello")
